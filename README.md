@@ -1,6 +1,8 @@
 # ECE-model
 
-This is the code for Modeling the dynamics of pedestrian evacuation in a complex environment. It has been accepted by Physica A: Statistical Mechanics and its Application. Available online 14 September 2021.
+This is the code for Modeling the dynamics of pedestrian evacuation in a complex environment. 
+
+It has been accepted by Physica A: Statistical Mechanics and its Application. Available online 14 September 2021.
 https://doi.org/10.1016/j.physa.2021.126426
 
 ## Documentation
