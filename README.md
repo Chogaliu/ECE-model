@@ -1,8 +1,10 @@
 # ECE-model
 
-This is the code for Modeling the dynamics of pedestrian evacuation in a complex environment. 
+This is the code for paper "Modeling the dynamics of pedestrian evacuation in a complex environment", which has been accepted by Physica A: Statistical Mechanics and its Application. Available online 14 September 2021.
 
-It has been accepted by Physica A: Statistical Mechanics and its Application. Available online 14 September 2021.
+## Reference Details
+- **Title** : Modeling the dynamics of pedestrian evacuation in a complex environment
+- **Abstract** : The study of crowd evacuation dynamics is important for the management of public safety, and crowd evacuation dynamics models can be used to simulate the behaviors of pedestrians during an evacuation. In this paper, we propose a new force model for simulation of the evacuation of complex environments. In comparison to existing models, this model considers more environmental factors to make it applicable to complex emergency environments. By verification using real data, the model is demonstrated to be able to predict evacuation efficiency and better reproduce the microscopic behavior of pedestrians under extreme conditions. We discuss the impact of the presence of different kinds of hazards and different types of obstacles in the environment on pedestrian evacuation performance and put forward suggestions for crowd evacuation management.
 https://doi.org/10.1016/j.physa.2021.126426
 
 ## Documentation
