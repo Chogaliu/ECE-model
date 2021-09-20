@@ -8,22 +8,14 @@ This is the code for paper "Modeling the dynamics of pedestrian evacuation in a 
 https://doi.org/10.1016/j.physa.2021.126426
 
 ## Documentation
-- **AppleStore_ECE.m** :
-- **AppleStore_SFM.m**: 
-
-## Model Details
-
-ECE model is inspired by social force model proposed by Dirk Helbing in 1995.
-
+- **AppleStore_ECE.m**: The code is to simulate the dynamic of pedestrain using ECE model (case study)
+- **AppleStore_SFM.m**: The code is to simulate the dynamic of pedestrain using social force model (case study)
+- **initial_pedes_co.mat**: The initial position of evacuees based on the field video [ped_id, x, y]
 ![image](https://user-images.githubusercontent.com/80196339/132534525-175bac12-4993-4bde-8e55-854933afd41e.jpeg)
-
-Video address: https://www.foxnews.com/us/new-york-apple-store-gunfire-triggers-panic-video-shows
-
-Using an actual evacuation video under extreme panic as evidence, the characteristics of pedestrian behavior under panic were analyzed, and the ECE model was demonstrated to be accurate for predicting evacuation efficiency. Furthermore, it was found to reproduce the individual movements of pedestrians (detouring behavior and the “parallel to single” phenomenon) better than the social force model. 
 
 ## Results  
 
-![image](https://user-images.githubusercontent.com/80196339/132535747-0e7ee2e1-62b1-4bd5-978b-8896604fca45.jpeg)
+Using an actual evacuation video under extreme panic as evidence, the characteristics of pedestrian behavior under panic were analyzed, and the ECE model was demonstrated to be accurate for predicting evacuation efficiency. Furthermore, it was found to reproduce the individual movements of pedestrians (detouring behavior and the “parallel to single” phenomenon) better than the social force model. 
 
 | Model name | RouteDeviation |
 | :---: | :---: | 
